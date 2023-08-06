@@ -75,7 +75,7 @@ To load libraries like jQuery and others, copy the files to the repository and a
 Mutator are participant functions provided by the arena that does not affect participants execution time. -->
 ## Special thanks
 - engine262<br>
-AI-Tournaments uses [engine262](https://github.com/engine262/engine262) spearheaded by [snek](https://github.com/devsnek) for executing participants deterministically.
+AI-Tournaments uses [engine262](https://github.com/engine262/engine262) for sandboxing matches and execute then deterministically.
 - JSON Editor<br>
 AI-Tournaments uses [JSON Editor](https://github.com/josdejong/jsoneditor/) by [Jos de Jong](https://github.com/josdejong), powered by [Ace (Ajax.org Cloud9 Editor)](https://github.com/ajaxorg/ace/) and [Ajv JSON schema validator](https://github.com/ajv-validator/ajv/), for editing, rendering and validating JSON.
 - seedrandom<br>
