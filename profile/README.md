@@ -61,7 +61,7 @@ The `arena.js` and `participant.js` optional file header has to be valid Json ot
 }**/
 ```
 ### Dependencies
-To load libraries like jQuery and others, put the files in the repository and add them to the file header. The files had to be referenced locally. The sources are imported assigned order.
+To load libraries like jQuery and others, copy the files to the repository and add them to the file header. The files has to be referenced locally. The sources are imported assigned order.
 ``` JavaScript
 /**{
 	"dependencies": [
