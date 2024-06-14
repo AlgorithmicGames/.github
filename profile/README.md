@@ -1,8 +1,6 @@
-<!-- Keep in sync [START] -->
-<!-- https://github.com/AI-Tournaments/.github/blob/main/profile/README.md -->
-<!-- https://github.com/AI-Tournaments/AI-Tournaments.github.io/blob/main/README.md -->
 # AI-Tournaments
 [AI-Tournaments](https://ai-tournaments.github.io/) is a platform for match making between algorithms. Users can make their own participates to compete in any of the existing arenas, or make their own custom arena and challenge other users to join. <!-- Keep in sync with social platforms: LinkedIn -->
+"_AI_" in the name refers to playing against the computer on old video games, like "_Hard AI_" or "_Hard CPU_".
 
 AI-Tournaments in an early prototype stage. See the section [Participate](#Participate) if you want to join a arena, then analyze how other have solved the arena until better documentation has been written.
 ## Community
@@ -83,9 +81,6 @@ AI-Tournaments uses [seedrandom](https://github.com/davidbau/seedrandom) by [Dav
 - Supabase<br>
 AI-Tournaments uses Edge Functions by [Supabase](https://github.com/supabase/supabase) for serverless [backend](https://github.com/AI-Tournaments/Backend).
 
-<!-- Keep in sync [START] -->
-<!-- https://github.com/AI-Tournaments/.github/blob/main/profile/README.md -->
-<!-- https://github.com/AI-Tournaments/AI-Tournaments.github.io/blob/main/README.md -->
 ## Why Source Available?
 [AI-Tournaments](https://github.com/AI-Tournaments) is not Open Source by the [Open Source Initiative's definition](https://opensource.org/docs/osd) but rather [Source Available](https://en.wikipedia.org/wiki/Source-available_software), except were a license that says otherwise is in place. This might change when AI-Tournaments leaves the prototype stage, the decision has not yet been made.
 ### User written JavaScript
@@ -112,4 +107,3 @@ Basically anything that gives something back to the community.
 - Private tournaments for benchmarking user performance.<!-- Contact [E-MAIL ADDRESS PENDING] for solution offering. -->
 
 If you have any doubts, you can [request permission here](https://github.com/AI-Tournaments/AI-Tournaments.github.io/issues/new?title=%5Bpermission-request%5D%20_Short_description_&body=Am%20I%20allowed%20to...%20?)<!-- or contact [E-MAIL ADDRESS PENDING]. -->.
-<!-- Keep in sync [END] -->
