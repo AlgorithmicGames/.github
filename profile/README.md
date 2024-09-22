@@ -1,12 +1,12 @@
 # AI-Tournaments
-[AI-Tournaments](https://ai-tournaments.github.io/) is a platform for match making between algorithms. Users can make their own participates to compete in any of the existing arenas, or make their own custom arena and challenge other users to join. <!-- Keep in sync with social platforms: LinkedIn -->
+<!-- Keep in sync with social platforms: LinkedIn -->
+[AI-Tournaments](https://ai-tournaments.github.io/) is a platform for competitive programming and match making between algorithms. Users can make their own participates to compete in any of the existing arenas, or make their own custom arena and challenge other users to join. <!-- Keep in sync [END] -->
 "_AI_" in the name refers to playing against the computer on old video games, like "_Hard AI_" or "_Hard CPU_".
 
 AI-Tournaments in an early prototype stage. See the section [Participate](#Participate) if you want to join a arena, then analyze how other have solved the arena until better documentation has been written.
 ## Community
 Join the official [GitHub](https://github.com/orgs/AI-Tournaments/discussions/) or [Discord](https://discord.gg/jhUJNsN) community. Please read and follow the [community guide lines](https://ai-tournaments.github.io/Community/Guidelines/).
 <br>[![Discord banner2](https://discord.com/api/guilds/765291928454823936/widget.png?style=banner2)](https://discord.gg/jhUJNsN)
-<!-- Keep in sync [END] -->
 
 ## Participate
 To participate in a Arena you need to [create a public GitHub repository](https://github.com/AI-Tournaments/Participant-Template) and apply three topics: `AI-Tournaments`, `AI-Tournaments-Participant` and the full repository name of the arena (`ExampleAuthor--ExampleArena`). The repository also has to have a file in root called `participant.js`, this is the file that will be called to the arena. The repository's name will represent the participants name, except if it starts with `AI-Tournaments-Participant-` then that part is omitted.
