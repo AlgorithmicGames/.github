@@ -1,7 +1,10 @@
 # AI-Tournaments
-<!-- Keep in sync with social platforms: LinkedIn -->
-[AI-Tournaments](https://ai-tournaments.github.io/) is a platform for competitive programming and match making between algorithms. Users can make their own participates to compete in any of the existing arenas, or make their own custom arena and challenge other users to join. <!-- Keep in sync [END] -->
+[AI-Tournaments](https://ai-tournaments.github.io/) is a platform for competitive programming and match making between algorithms. Users can make their own participates to compete in any of the existing arenas, or make their own custom arena and challenge other users to join.
 "_AI_" in the name refers to playing against the computer on old video games, like "_Hard AI_" or "_Hard CPU_".
+<!-- Format for other platforms:
+// LinkedIn
+AI-Tournaments is a platform for competitive programming and match making between algorithms. Users can make their own participates to compete in any of the existing arenas, or make their own custom arena and challenge other users to join. First prototype was done some time before 2016, but all source history from that time is lost. In 2020 a new fresh start took place.
+-->
 
 AI-Tournaments in an early prototype stage. See the section [Participate](#Participate) if you want to join a arena, then analyze how other have solved the arena until better documentation has been written.
 ## Community
