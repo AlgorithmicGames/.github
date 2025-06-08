@@ -24,7 +24,7 @@ Note that you can always use any participant source in the [Develop environment]
 
 ### Develop environment
 <i>For both developing arenas and participants.</i><br>
-In [Local development setups](https://AlgorithmicGames.github.io/Dev/) you can add the URLs to arena (`arena.js` along with the arenas replay page) and participants to test with before publishing them in GitHub.
+In [Local development setups](https://Algorithmic.Games/Dev/) you can add the URLs to arena (`arena.js` along with the arenas replay page) and participants to test with before publishing them in GitHub.
 
 <b>Explanation</b>
 | Key | Description | Example |
@@ -87,7 +87,7 @@ Algorithmic Games uses Edge Functions by [Supabase](https://github.com/supabase/
 ### User written JavaScript
 Algorithmic Games executes user written JavaScripts in the web browser, which is usually seen as a security concern ([Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)). But the scripts are loaded into a sandbox IFrame and Web Worker to prevent just that. But the concern still remain and that's a fact that should not be hidden, that is why it is instead addressed and displayed publicly here.
 
-But if you do find a way to break out of the sandbox and access client data or other participant scripts, please do [report it](https://github.com/AlgorithmicGames/AlgorithmicGames.github.io/issues/new?title=%5Bsecurity-hole%5D%20_Short_description_&body=How%20to%20reproduce:%0A1.%20First...%0A2.%20Then...)! Reporters of confirmed security holes will get a [honorable mention](https://AlgorithmicGames.github.io/Community/HonorableMentions/) once the hole is fixed.
+But if you do find a way to break out of the sandbox and access client data or other participant scripts, please do [report it](https://github.com/AlgorithmicGames/AlgorithmicGames.github.io/issues/new?title=%5Bsecurity-hole%5D%20_Short_description_&body=How%20to%20reproduce:%0A1.%20First...%0A2.%20Then...)! Reporters of confirmed security holes will get a [honorable mention](https://Algorithmic.Games/Community/HonorableMentions/) once the hole is fixed.
 ### Scheduled server hosted events
 A server-side events with official match results is planned, but until then client-side execution is the only way to run the arenas.
 Note that [interfaces](#Interfaces) will not be able or allowed to compete.
