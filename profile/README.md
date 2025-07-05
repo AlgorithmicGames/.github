@@ -24,6 +24,14 @@ Note that you can always use any participant source in the [Develop environment]
 
 ### Develop environment
 <i>For both developing arenas and participants.</i><br>
+Supported console logs:
+- log
+- warn
+- error
+- info
+- debug
+- table
+
 In [Local development setups](https://Algorithmic.Games/Dev/) you can add the URLs to arena (`arena.js` along with the arenas replay page) and participants to test with before publishing them in GitHub.
 
 <b>Explanation</b>
