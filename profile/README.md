@@ -32,7 +32,7 @@ Supported console logs:
 - debug
 - table
 
-In [Local development setups](https://Algorithmic.Games/Dev/) you can add the URLs to arena (`arena.js` along with the arenas replay page) and participants to test with before publishing them in GitHub.
+In [Local development setups](https://Algorithmic.Games/Dev/) you can add the URLs to the arena (`arena.js` along with the arenas replay page) and participants to test with before publishing them in GitHub.
 
 <b>Explanation</b>
 | Key | Description | Example |
@@ -46,7 +46,7 @@ In [Local development setups](https://Algorithmic.Games/Dev/) you can add the UR
 The development environment also includes some extra dials and features to help with quality assurance.
 
 #### Participant
-Participant's URLs can be written in different forms. An _ordinary_ URL is interpreted in the default sealed sandbox, but URLs that starts with a question mark (`?`) is executed as plain javascript and can be debugged by the javascript [`debugger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger) command.
+Participant's URLs can be written in different forms. An _ordinary_ URL is interpreted in the default sealed sandbox, but URLs that starts with a question mark (`?`) is executed in the browser and can be debugged by the javascript's [`debugger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger) command. Be aware that results can differ between the sealed sandbox and the browser, much in the same way results can differ between different browser vendors.
 #### Interface
 If you need more freedom for debugging or would like to train a neural network you should investigate using an interface, which's URLs starts with a exclamation mark (`!`). The main difference between an [Interface](https://github.com/AlgorithmicGames/Interface-Template) and a [Participant](https://github.com/AlgorithmicGames/Participant-Template) is that interfaces opens up a separate web page and sidestep all participant's restrictions. The main use case for interfaces is to get better insight during a running match, for example by allowing Human vs Participant and even Human vs Human matches.
 #### Break before first message
