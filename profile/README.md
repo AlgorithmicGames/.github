@@ -87,8 +87,6 @@ Algorithmic Games uses [engine262](https://github.com/engine262/engine262) for s
 Algorithmic Games uses [JSON Editor](https://github.com/josdejong/jsoneditor/) by [Jos de Jong](https://github.com/josdejong), powered by [Ace (Ajax.org Cloud9 Editor)](https://github.com/ajaxorg/ace/) and [Ajv JSON schema validator](https://github.com/ajv-validator/ajv/), for editing, rendering and validating JSON.
 - seedrandom<br>
 Algorithmic Games uses [seedrandom](https://github.com/davidbau/seedrandom) by [David Bau](https://github.com/davidbau) for overriding `Math.random()` to generate repeatable numbers.
-- Supabase<br>
-Algorithmic Games uses Edge Functions by [Supabase](https://github.com/supabase/supabase) for serverless [backend](https://github.com/AlgorithmicGames/Backend).
 
 ## Why Source Available?
 [Algorithmic Games](https://github.com/AlgorithmicGames) is not Open Source by the [Open Source Initiative's definition](https://opensource.org/docs/osd) but rather [Source Available](https://en.wikipedia.org/wiki/Source-available_software), except were a license that says otherwise is in place. This might change when Algorithmic Games leaves the prototype stage, the decision has not yet been made.
