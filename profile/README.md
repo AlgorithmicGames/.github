@@ -10,14 +10,14 @@ Algorithmic Games in an early prototype stage. See the section [Participate](#Pa
 If you want to you join the discussions, head on over to the <a href="https://algorithmic.games/Community/Official/" target="_blank">Community handbook</a> and read where we are.
 
 ## Participate
-To participate in a Arena you need to [create a public GitHub repository](https://github.com/AlgorithmicGames/Participant-Template) and apply three topics: `Algorithmic-Games`, `Algorithmic-Games-Participant` and the full repository name of the arena (`ExampleAuthor--ExampleArena`). The repository also has to have a file in root called `participant.js`, this is the file that will be called to the arena. The repository's name will represent the participants name, except if it starts with `Algorithmic-Games-Participant-` then that part is omitted.
+To participate in a Arena you need to [create a public GitHub repository](https://github.com/AlgorithmicGames/Participant-Template) and apply three topics: `AlgorithmicGames`, `AlgorithmicGames-Participant` and the full repository name of the arena (`ExampleAuthor--ExampleArena`). The repository also has to have a file in root called `participant.js`, this is the file that will be called to the arena. The repository's name will represent the participants name, except if it starts with `AlgorithmicGames-Participant-` then that part is omitted.
 ### Private repositories
 Currently not supported.
 <!-- Keep in sync [START] -->
 <!-- 👆 When supported. -->
 <!-- https://github.com/AlgorithmicGames/.github/blob/main/profile/README.md -->
 <!--
-Participating with private repositories is only available to monthly [sponsors](https://github.com/sponsors/ChrisAcrobat) and selected members only due to the extra backend cost. Add [Algorithmic Games participant](https://github.com/apps/algorithmic-games-participant) to your repository to unlock the feature.<br>
+Participating with private repositories is only available to monthly [sponsors](https://github.com/sponsors/ChrisAcrobat) and selected members only due to the extra backend cost. Add [Algorithmic Games participant](https://github.com/apps/algorithmicgames-participant) to your repository to unlock the feature.<br>
 Note that you can always use any participant source in the [Develop environment](#develop-environment) without sponsorship.
 -->
 <!-- Keep in sync [END] -->
