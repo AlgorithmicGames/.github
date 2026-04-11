@@ -97,8 +97,6 @@ But if you do find a way to break out of the sandbox and access client data or o
 ### Scheduled server hosted events
 A server-side events with official match results is planned, but until then client-side execution is the only way to run the arenas.
 Note that [interfaces](#Interfaces) will not be able or allowed to compete.
-### Arenas
-The source code for AI-Tournament's [arena executor](https://github.com/AlgorithmicGames/Arena-Manager) and the official arenas are available in order to make it easier to examen the "rules" and come up with optimal strategies. You are basically allowed to do what ever as long as it isn't commercial matches.
 ### Allowed examples
 Download code from Algorithmic Games to ...
 - Develop, troubleshooting or train an AI.
